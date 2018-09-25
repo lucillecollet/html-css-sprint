@@ -1,1 +1,26 @@
-/* TODO: write your design in CSS */
+body{
+  background: #FFFFFA;
+  color: #3300c1;
+  font-size: 18px;
+  font-family: Open Sans Condensend, sans-serif;
+  font-stretch: condensed;
+}
+h1{
+  font-family: Oswald, sans-serif;
+  color:#DB2B39;
+  font-weight: bolder;
+  font-size: 40px;
+}
+h2 {
+  font-family: Oswald, sans-serif;
+  color: #F3A712;
+  font-weight: bold;
+  font-size: 25px;
+}
+a {
+  color: #721817;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
